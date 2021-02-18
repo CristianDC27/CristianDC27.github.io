@@ -1,6 +1,7 @@
 ## Bienvenido a mi página personal
 
 Esto es simplemente una prueba para la asignatura de HMSI21 :+1:
+Podeis visitar mi [perfil](https://github.com/CristianDC27) de GitHub para ver mis proyectos 
 
 ### Markdown
 
